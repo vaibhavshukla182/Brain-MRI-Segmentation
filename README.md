@@ -24,9 +24,12 @@ The probelm statement was **Brain MRI Segmentation using Machine Learning** give
 
 ![why](why2.jpg)
 
-## GUI
+## GUI and giving input
 
-![](screen.png)
+![GUI](working.gif)
+
+
+
 
 ![gui](images/screen1.png)
 
