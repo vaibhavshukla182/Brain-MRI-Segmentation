@@ -24,6 +24,8 @@ The probelm statement was **Brain MRI Segmentation using Machine Learning** give
 
 ![why](why2.jpg)
 
+## GUI
+
 ![gui](images/screen1.png)
 
 ## Tumour prediction
