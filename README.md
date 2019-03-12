@@ -18,7 +18,15 @@ The probelm statement was **Brain MRI Segmentation using Machine Learning** give
 
 ![VGG16](vgga.jpg)
 
+## Why our model?
 
+• Since we are using transfer learning, a novel approach in this field, so we do not need to train our model from scratch which makes it very fast in training in comparison to other models.
+
+• Stacking 3 successive 2D slices allows us to make a RGB image, another novel idea.This representation enables us to incorporate some 3D information, while avoiding the expensive computational and memory requirements of fully 3D FCN.
+
+• Using Transfer Learning we do not need many training images, so we could train our model very well only on a few training images.
+
+• We are also using traditional data augmentation methods like rotating, cropping and flipping the images in training set for improving our model.
 
 ## GUI and giving input
 
