@@ -19,17 +19,13 @@ The probelm statement was **Brain MRI Segmentation using Machine Learning** give
 ![VGG16](vgga.jpg)
 
 
-![why](why1.jpg)
-
-
-![why](why2.jpg)
 
 ## GUI and giving input
 
 ![GUI](working.gif)
 
 
-
+## Output
 
 ![gui](images/screen1.png)
 
