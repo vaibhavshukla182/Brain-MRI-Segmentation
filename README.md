@@ -4,6 +4,8 @@ The method we use comes from this paper:
 [From neonatal to adult brain
 mr image segmentation in a few seconds using 3d-like fully convolutional network and transfer learning](https://www.lrde.epita.fr/wiki/Publications/xu.17.icip)
 
+Soft tissue segmentation.
+
 This project was part of the Smart India Hackathon 2019 in which our team was the runner ups.
 The probelm statement was **Brain MRI Segmentation using Machine Learning** given by **Department of Atomic Energy, Government of India**
 
