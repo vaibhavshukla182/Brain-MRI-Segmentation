@@ -1,4 +1,4 @@
-# Brain-MRI-Segmentation
+# Brain MRI Segmentation
 
 The method we use comes from this paper:
 [From neonatal to adult brain
