@@ -7,7 +7,7 @@ mr image segmentation in a few seconds using 3d-like fully convolutional network
 Soft tissue segmentation.
 
 This project was part of the Smart India Hackathon 2019 in which our team was the runner ups.
-The probelm statement was **Brain MRI Segmentation using Machine Learning** given by **Department of Atomic Energy, Government of India**
+The problem statement was **Brain MRI Segmentation using Machine Learning** given by **Department of Atomic Energy, Government of India**
 
 ![DAE](dae.png)
 
