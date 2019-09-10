@@ -46,3 +46,11 @@ The problem statement was **Brain MRI Segmentation using Machine Learning** give
 ## Other regions
 
 ![](pred1.jpg)
+
+## Contributors 
+[Vaibhav Shukla](https://github.com/vaibhavshukla182/)  
+[Abhijeet Singh](https://github.com/abhi40308)  
+[Omkar Ajnadkar](https://github.com/blackbird71SR)  
+[Govind Singh Rajpurohit](https://github.com/govind51)  
+[Ratna Priya](https://github.com/Ratna04priya)  
+[Sanath Singavarapu](https://github.com/Killer2499)  
